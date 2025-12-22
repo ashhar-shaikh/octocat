@@ -51,6 +51,3 @@ The Task Management System is a microservice designed to allow users to create, 
 * A `TaskRepository.java` interface.
 * A `TaskController.java` with the `/api/v1/tasks` endpoints.
 
-
-
-**Would you like me to generate the `main` script that connects these two agents and this LLD together?**
